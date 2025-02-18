@@ -20,7 +20,7 @@ This repository contains Processing sketches demonstrating various visualization
 
 2. **Clone the Repository**
     - ```sh
-      git clone https://github.com/LorenzoCode3/Processing-sketches.git
+      git clone https://github.com/LorenzoCode3/processing-sketches.git
       ```
 
 3. **Open the Sketches**
